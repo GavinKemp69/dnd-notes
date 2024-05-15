@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Session Notes/Session 3.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece478076a21c3c6",
+  "active": "d8c63fbb8891b77f",
   "lastOpenFiles": [
+    "NPCs",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
     "scripts/update_links.py",
     "scripts",
-    "Verity Kye.md",
-    "Session Notes/Session 3.md",
+    "NPCs/Verity Kye.md",
     "Session Notes/Session 1-2.md",
     "index.MD",
     "Quentin Togglepocket.md",
@@ -162,7 +164,6 @@
     "Sessio 3.md",
     "Session Notes/Session 6.md",
     "_config.yml",
-    "Session Notes/Session 4.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 11.md",
