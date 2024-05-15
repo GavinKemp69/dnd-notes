@@ -30,6 +30,6 @@
 
 [Session 16](Session%20Notes/Session%2016)
 
-[Session 17](Session%20Notes/Session%2017.md)
+[Session 17](Session%20Notes/Session%2017)
 
 
