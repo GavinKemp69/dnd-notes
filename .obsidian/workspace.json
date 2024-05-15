@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "Session 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "Session 5.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6c4c46f50e18f3d0",
   "lastOpenFiles": [
-    "Sessio 3.md",
     "index.MD",
+    "Sessio 3.md",
     "Session 6.md",
     "_config.yml",
     "Session 5.md",
