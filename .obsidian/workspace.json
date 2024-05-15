@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1-2.md",
+                "file": "NPCs/Verity Kye.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1-2.md",
+                "file": "NPCs/Verity Kye.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1-2.md",
+                "file": "NPCs/Verity Kye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1-2.md"
+                "file": "NPCs/Verity Kye.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ff2225c8186953d5",
   "lastOpenFiles": [
-    "index.MD",
     "NPCs/Alda Arkin.md",
     "Session Notes/Session 1-2.md",
+    "index.MD",
     "Quentin Togglepocket.md",
     "README.md",
     "NPCs/Verity Kye.md",
