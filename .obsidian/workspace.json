@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 5.md",
+                "file": "Session Notes/Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8af48c81faad7a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.MD",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 5.md",
+                "file": "index.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 5.md",
+                "file": "index.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 5.md"
+                "file": "index.MD"
               }
             }
           }
@@ -146,29 +159,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c4c46f50e18f3d0",
+  "active": "8af48c81faad7a7f",
   "lastOpenFiles": [
+    "Session Notes/Session 1-2.md",
+    "Quentin Togglepocket.md",
+    "Session Notes",
+    "Session Notes/Session 5.md",
     "index.MD",
     "Sessio 3.md",
-    "Session 6.md",
+    "Session Notes/Session 6.md",
     "_config.yml",
-    "Session 5.md",
-    "Session 4.md",
-    "Session 3.md",
-    "Session 1-2.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
     "README.md",
-    "Session 17.md",
-    "Session 7.md",
-    "Session 11.md",
-    "Session 12.md",
-    "Session 10.md",
-    "Session 9.md",
-    "Session 8.md",
-    "Session 13.md",
-    "Session 14.md",
-    "Session 15.md",
-    "Session 16.md",
-    "Untitled",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 13.md",
+    "Session Notes/Session 14.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Session 16.md",
     "Untitled.canvas",
     "DnD Campaign 2.md",
     "2024-03-28.md",
