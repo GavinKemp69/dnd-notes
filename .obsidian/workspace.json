@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quentin Togglepocket.md",
+                "file": "index.MD",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quentin Togglepocket.md",
+                "file": "index.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quentin Togglepocket.md",
+                "file": "index.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quentin Togglepocket.md"
+                "file": "index.MD"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ece478076a21c3c6",
   "lastOpenFiles": [
-    "index.MD",
     "Quentin Togglepocket.md",
+    "index.MD",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 1-2.md",
