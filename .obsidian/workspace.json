@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "551758a52c3f6e93",
+        "id": "874bdbdc35160f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4c46f50e18f3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af48c81faad7a7f",
+            "id": "ece478076a21c3c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8af48c81faad7a7f",
+  "active": "ece478076a21c3c6",
   "lastOpenFiles": [
-    "Session Notes/Session 1-2.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 3.md",
     "index.MD",
+    "Session Notes/Session 1-2.md",
     "Quentin Togglepocket.md",
     "Session Notes",
-    "Session Notes/Session 5.md",
     "Sessio 3.md",
     "Session Notes/Session 6.md",
     "_config.yml",
     "Session Notes/Session 4.md",
-    "Session Notes/Session 3.md",
     "README.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 7.md",
