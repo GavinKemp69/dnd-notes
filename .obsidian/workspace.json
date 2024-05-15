@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 1-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Session Notes/Session 1-2.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "ece478076a21c3c6",
   "lastOpenFiles": [
+    "Quentin Togglepocket.md",
     "index.MD",
+    "README.md",
     "README.md~",
     "Session Notes/Session 1-2.md",
-    "Quentin Togglepocket.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes",
@@ -159,7 +160,6 @@
     "Session Notes/Session 6.md",
     "_config.yml",
     "Session Notes/Session 4.md",
-    "README.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 11.md",
