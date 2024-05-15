@@ -1,0 +1,1 @@
+Fought 2 poison dragon/kobold hybrids and some kobolds. We took 1 kobold unconscious and 1 dragon/kobold paralyzed. Terj pulled a topaz from the skull of a dragon in the middle of the room and a map.

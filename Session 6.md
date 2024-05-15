@@ -1,0 +1,1 @@
+Big fight with the casino guards. Chutes is captured. The rest of the party escape over the waterfall.
