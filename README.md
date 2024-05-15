@@ -1,3 +1,3 @@
 # dnd-notes 
 
-Season 2 of Rick and Morty was really bad
+[[Session 1-2]]
