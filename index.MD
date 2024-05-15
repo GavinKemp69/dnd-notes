@@ -5,5 +5,10 @@
 [Session 4](Session%204.md)
 [Session 5](Session%205)
 [Session 5](Session%205)
+[Session 6](Session%206)
+[Session 7](Session%207)
+[Session 8](Session%208)
+[Session 9](Session%209)
+[Session 10](Session%2010)
 
 
