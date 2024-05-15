@@ -19,7 +19,7 @@ Savvek and I worked for the Donnel family in retrieving a family pendant. Dr Fin
 
 We go to an Inn called the Sage's Quill where we last met the Donnel contact on the previous job.
 
-We went to the museum. Gully met an [[Alda Arkin]] (the curator) as he tried to go up to the attic.
+We went to the museum. Gully met an [Alda Arkin](NPCs/Alda%20Arkin.md) (the curator) as he tried to go up to the attic.
 
 I checked the offices and saw a strange doll in the south most office. I enter the gem room waiting to make my distraction.
 
