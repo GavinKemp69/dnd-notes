@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "Session 3.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6c4c46f50e18f3d0",
   "lastOpenFiles": [
-    "README.md",
     "index.MD",
+    "README.md",
     "Session 1-2.md",
     "Session 17.md",
     "Session 3.md",
