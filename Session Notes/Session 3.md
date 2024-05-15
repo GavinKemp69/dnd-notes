@@ -1,6 +1,6 @@
 The owner of the Overrated Shrub is "Dirk Langden". In our private room we hear a knock on the door. The gnome messenger passes Gully another key.
 
-An ally of the Golden Vault called "Verity Kye" had her winnings stolen. We need to meet her at "The Briney Widow". The casino is called the "Afterlife Casino" and we need to steal the money and a small statue.
+An ally of the Golden Vault called [[Verity Kye]] had her winnings stolen. We need to meet her at "The Briney Widow". The casino is called the "Afterlife Casino" and we need to steal the money and a small statue.
 
 Gully uses a disguise kit on "Turge".
 
