@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ece478076a21c3c6",
   "lastOpenFiles": [
+    "index.MD",
     "README.md~",
     "Session Notes/Session 1-2.md",
-    "index.MD",
     "Quentin Togglepocket.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
