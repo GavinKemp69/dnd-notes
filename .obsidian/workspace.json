@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 1-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 1-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Session Notes/Session 1-2.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "d8c63fbb8891b77f",
   "lastOpenFiles": [
-    "NPCs",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 3.md",
-    "scripts/update_links.py",
-    "scripts",
-    "NPCs/Verity Kye.md",
+    "NPCs/Alda Arkin.md",
     "Session Notes/Session 1-2.md",
     "index.MD",
     "Quentin Togglepocket.md",
     "README.md",
+    "NPCs/Verity Kye.md",
+    "Session Notes/Session 3.md",
+    "NPCs",
+    "Session Notes/Session 4.md",
+    "scripts/update_links.py",
+    "scripts",
     "README.md~",
     "Session Notes/Session 5.md",
     "Session Notes",
