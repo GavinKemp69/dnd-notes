@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 3.md",
+                "file": "Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 3.md",
+                "file": "Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 3.md",
+                "file": "Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 3.md"
+                "file": "Session 6.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "6c4c46f50e18f3d0",
   "lastOpenFiles": [
-    "index.MD",
-    "README.md",
-    "Session 1-2.md",
-    "Session 17.md",
-    "Session 3.md",
-    "Session 4.md",
     "Session 5.md",
+    "Session 4.md",
+    "Session 3.md",
+    "Session 1-2.md",
+    "README.md",
+    "index.MD",
+    "Session 17.md",
     "Session 6.md",
     "Session 7.md",
     "Session 11.md",
