@@ -1,14 +1,14 @@
-[Alda Arkin](Ahili/Alda%20Arkin.md)
+[Alda Arkin](Ahili/Alda%20Arkin)
 
-[Quentin Togglepocket](Quentin%20Togglepocket.md)
+[Quentin Togglepocket](Quentin%20Togglepocket)
 
-[Verity Kye](Verity%20Kye.md)
+[Verity Kye](Verity%20Kye)
 
-[Fingus Dannell](Ahili/Fingus%20Dannell.md)
+[Fingus Dannell](Ahili/Fingus%20Dannell)
 
-[Calvin Lighthouse](The%20Unexplored/Calvin%20Lighthouse.md)
+[Calvin Lighthouse](The%20Unexplored/Calvin%20Lighthouse)
 
-[Galen Silverbeard](The%20Unexplored/Galen%20Silverbeard.md)
+[Galen Silverbeard](The%20Unexplored/Galen%20Silverbeard)
 
-[Thaddius Stonewall](The%20Unexplored/Thaddius%20Stonewall.md) and [Fluffernox](The%20Unexplored/Fluffernox.md)
+[Thaddius Stonewall](The%20Unexplored/Thaddius%20Stonewall) and [Fluffernox](The%20Unexplored/Fluffernox)
 
