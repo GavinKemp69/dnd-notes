@@ -26,9 +26,19 @@ jobs:
       id: update_links
       run: |
         python scripts/update_links.py
+      continue-on-error: true
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if grep -q 'true' changes_made.txt; then
+          echo "changes=true" >> $GITHUB_ENV
+        else
+          echo "changes=false" >> $GITHUB_ENV
+        fi
 
     - name: Commit changes
-      if: steps.update_links.outcome == 'success'
+      if: env.changes == 'true'
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
