@@ -28,15 +28,6 @@ jobs:
         python scripts/update_links.py
       continue-on-error: true
 
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if grep -q 'true' changes_made.txt; then
-          echo "changes=true" >> $GITHUB_ENV
-        else
-          echo "changes=false" >> $GITHUB_ENV
-        fi
-
     - name: Commit changes
       if: env.changes == 'true'
       run: |
