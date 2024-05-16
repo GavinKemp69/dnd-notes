@@ -11,6 +11,7 @@ def update_links_in_file(file_path):
     if updated_content != content:
         with open(file_path, 'w') as file:
             file.write(updated_content)
+            print(f"Updated links in file: {file_path}")  # Log statement
         return True
     return False
 
