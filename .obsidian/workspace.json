@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60324097c5f438ac",
+        "id": "885989a912886223",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2225c8186953d5",
+            "id": "dfca64544c9d2e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Verity Kye.md",
+                "file": "Session Notes/Session 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Verity Kye.md",
+                "file": "Session Notes/Session 17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Verity Kye.md",
+                "file": "Session Notes/Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Verity Kye.md"
+                "file": "Session Notes/Session 17.md"
               }
             }
           }
@@ -146,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff2225c8186953d5",
+  "active": "dfca64544c9d2e1d",
   "lastOpenFiles": [
-    "NPCs/Alda Arkin.md",
+    "Session Notes/Session 16.md",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Session 14.md",
     "Session Notes/Session 1-2.md",
-    "index.MD",
-    "Quentin Togglepocket.md",
-    "README.md",
-    "NPCs/Verity Kye.md",
-    "Session Notes/Session 3.md",
-    "NPCs",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
+    "NPCs/Quentin Togglepocket.md",
     "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
+    "NPCs/Verity Kye.md",
+    "index.MD",
+    "README.md",
+    "NPCs/Alda Arkin.md",
+    "NPCs",
     "scripts/update_links.py",
     "scripts",
     "README.md~",
-    "Session Notes/Session 5.md",
     "Session Notes",
     "Sessio 3.md",
-    "Session Notes/Session 6.md",
     "_config.yml",
-    "Session Notes/Session 17.md",
-    "Session Notes/Session 7.md",
     "Session Notes/Session 11.md",
     "Session Notes/Session 12.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
     "Session Notes/Session 13.md",
-    "Session Notes/Session 14.md",
-    "Session Notes/Session 15.md",
-    "Session Notes/Session 16.md",
     "Untitled.canvas",
     "DnD Campaign 2.md",
     "2024-03-28.md",
