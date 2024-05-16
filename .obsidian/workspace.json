@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Location Homepage.md",
+                "file": "NPCs/Ahili/Alda Arkin.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Location Homepage.md",
+                "file": "NPCs/Ahili/Alda Arkin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Location Homepage.md",
+                "file": "NPCs/Ahili/Alda Arkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Location Homepage.md"
+                "file": "NPCs/Ahili/Alda Arkin.md"
               }
             }
           }
@@ -173,19 +173,19 @@
   },
   "active": "46bcb14c792b08ba",
   "lastOpenFiles": [
-    "NPCs/NPC Homepage.md",
+    "NPCs/Ahili/Fingus Dannell.md",
+    "NPCs/Ahili/Alda Arkin.md",
+    "NPCs/The Unexplored/Calvin Lighthouse.md",
     "NPCs/The Unexplored/Fluffernox.md",
     "NPCs/The Unexplored/Galen Silverbeard.md",
     "NPCs/The Unexplored/Thaddius Stonewall.md",
-    "NPCs/Ahili/Fingus Dannell.md",
+    "NPCs/NPC Homepage.md",
+    "Locations/Location Homepage.md",
+    "Locations/Fort Enton.md",
+    "Locations/Kobold's Cave.md",
     "NPCs/Verity Kye.md",
     "NPCs/Quentin Togglepocket.md",
-    "NPCs/The Unexplored/Calvin Lighthouse.md",
-    "NPCs/Ahili/Alda Arkin.md",
-    "Locations/Location Homepage.md",
     "Locations/Oak Iron Lodge.md",
-    "Locations/Kobold's Cave.md",
-    "Locations/Fort Enton.md",
     "Items/Mutated Dragon's Blood.md",
     "Items/Murkmire Stone.md",
     "Items",
