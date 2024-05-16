@@ -1,1 +1,1 @@
-Professor at [[Varkenbluff University]]. Tasked the party to retrieve the [[Murkmire Stone]] from [Varkenbluff Museum](Varkenbluff%20Museum.md).
+Professor at [[Varkenbluff University]]. Tasked the party to retrieve the [[Murkmire Stone]] from [Varkenbluff Museum](Varkenbluff%20Museum).

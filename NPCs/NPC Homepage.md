@@ -1,4 +1,4 @@
-[Alda Arkin](Alda%20Arkin.md)
+[Alda Arkin](Alda%20Arkin)
 
 [Quentin Togglepocket](Quentin%20Togglepocket)
 
