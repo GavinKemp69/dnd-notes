@@ -1,3 +1,3 @@
 # Thaddius Stonewall
 
-Creator of [Fluffernox](Fluffernox.md). Met him at the [Oak Iron Lodge](../../Locations/Oak%20Iron%20Lodge.md).
+Creator of [Fluffernox](Fluffernox.md). Met him at the [Oak Iron Lodge](../../Locations/Oak%20Iron%20Lodge.md)
