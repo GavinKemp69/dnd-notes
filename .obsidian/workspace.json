@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "Session Notes/Session 6.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "dfca64544c9d2e1d",
   "lastOpenFiles": [
-    "README.md",
     "index.MD",
+    "README.md",
     "The Story So Far.md",
     "Session Notes/Session Homepage.md",
     "Locations/Location Homepage.md",
