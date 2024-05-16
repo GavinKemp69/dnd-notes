@@ -4,6 +4,7 @@ import re
 def update_links_in_file(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
+        print(f"Content of {file}")
         print(content)
         updated_content = re.sub(r'\[(.*?)\]\((.*?\.md)\)', lambda m: f"[{m.group(1)}]({m.group(2)[:-3]}/)", content)
         if updated_content != content:
@@ -32,6 +33,8 @@ def walk_through_files():
 if __name__ == "__main__":
     changes_made = walk_through_files()
     if changes_made:
+        print("OK")
         exit(0)
     else:
+        print("NM")
         exit(1)
