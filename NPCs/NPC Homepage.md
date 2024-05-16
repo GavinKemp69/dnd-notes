@@ -1,3 +1,3 @@
-[Alda Arkin](Alda%20Arkin.md)
-[Quentin Togglepocket](Quentin%20Togglepocket.md)
-[Verity Kye](Verity%20Kye.md)
+[Alda Arkin](Alda%20Arkin)
+[Quentin Togglepocket](Quentin%20Togglepocket)
+[Verity Kye](Verity%20Kye)
