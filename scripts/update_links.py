@@ -19,7 +19,9 @@ def walk_through_files():
     changed = False
     for root, _, files in os.walk('.'):
         for file in files:
+            print(f"Looking at file: {file}")
             if file.endswith('.md'):
+                print(f"Identified file with .md extension")
                 file_path = os.path.join(root, file)
                 if update_links_in_file(file_path):
                     changed = True
