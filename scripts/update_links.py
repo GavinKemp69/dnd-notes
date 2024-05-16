@@ -5,7 +5,8 @@ def update_links_in_file(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
 
-    updated_content = re.sub(r'\[(.*?)\]\((.*?\.md)\)', lambda m: f"[{m.group(1)}]({m.group(2)[:-3]})", content)
+    # Convert .md links to URLs without .md extension
+    updated_content = re.sub(r'\[(.*?)\]\((.*?\.md)\)', lambda m: f"[{m.group(1)}]({m.group(2)[:-3]}/)", content)
 
     if updated_content != content:
         with open(file_path, 'w') as file:
