@@ -26,6 +26,7 @@ def walk_through_files():
 
 if __name__ == "__main__":
     changes_made = walk_through_files()
-    with open('changes_made.txt', 'w') as f:
-        f.write('true' if changes_made else 'false')
-    exit(0)
+    if changes_made:
+        exit(0)
+    else:
+        exit(1)
