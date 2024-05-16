@@ -4,10 +4,8 @@ import re
 def update_links_in_file(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
-        print("read file")
-
+        print(content)
         updated_content = re.sub(r'\[(.*?)\]\((.*?\.md)\)', lambda m: f"[{m.group(1)}]({m.group(2)[:-3]}/)", content)
-        print("Updated content")
         if updated_content != content:
             print("Actual change happened")
             with open(file_path, 'w') as file:
@@ -24,8 +22,8 @@ def walk_through_files():
     for root, _, files in os.walk('..'):
         for file in files:
             if file.endswith('.md'):
-                print("IS GOOD")
                 file_path = os.path.join(root, file)
+                print(file_path)
                 if update_links_in_file(file_path):
                     print("IS THREE GOOD")
                     changed = True
