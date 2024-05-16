@@ -26,18 +26,8 @@ jobs:
       id: update_links
       run: |
         python scripts/update_links.py
-        script_exit_code=$?
-
-        if [ $script_exit_code -eq 0 ]; then
-          echo "Changes were made."
-          echo "::set-output name=changes::true"
-        else
-          echo "No changes were made."
-          echo "::set-output name=changes::false"
-        fi
 
     - name: Commit changes
-      if: steps.update_links.outputs.changes == 'true'
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
