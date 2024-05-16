@@ -32,9 +32,4 @@ def walk_through_files():
 
 if __name__ == "__main__":
     changes_made = walk_through_files()
-    if changes_made:
-        print("OK")
-        exit(0)
-    else:
-        print("NM")
-        exit(1)
+    exit(0)
