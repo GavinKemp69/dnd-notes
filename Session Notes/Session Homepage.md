@@ -1,32 +1,32 @@
-[Session 1-2](Session%20Notes/Session%201-2.md)
+[Session 1-2](Session%201-2.md)
 
-[Session 3](Session%20Notes/Session%203.md)
+[Session 3](Session%203.md)
 
-[Session 4](Session%20Notes/Session%204)
+[Session 4](Session%204.md)
 
-[Session 5](Session%20Notes/Session%205)
+[Session 5](Session%205.md)
 
-[Session 6](Session%20Notes/Session%206)
+[Session 6](Session%206.md)
 
-[Session 7](Session%20Notes/Session%207)
+[Session 7](Session%207.md)
 
-[Session 8](Session%20Notes/Session%208)
+[Session 8](Session%208.md)
 
-[Session 9](Session%20Notes/Session%209)
+[Session 9](Session%209.md)
 
-[Session 10](Session%20Notes/Session%2010)
+[Session 10](Session%2010.md)
 
-[Session 11](Session%20Notes/Session%2011)
+[Session 11](Session%2011.md)
 
-[Session 12](Session%20Notes/Session%2012)
+[Session 12](Session%2012.md)
 
-[Session 13](Session%20Notes/Session%2013)
+[Session 13](Session%2013.md)
 
-[Session 14](Session%20Notes/Session%2014)
+[Session 14](Session%2014.md)
 
-[Session 15](Session%20Notes/Session%2015)
+[Session 15](Session%2015.md)
 
-[Session 16](Session%20Notes/Session%2016)
+[Session 16](Session%2016.md)
 
-[Session 17](Session%20Notes/Session%2017)
+[Session 17](Session%2017.md)
 
