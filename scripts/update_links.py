@@ -16,9 +16,12 @@ def update_links_in_file(file_path):
 
 def walk_through_files():
     changed = False
-    for root, _, files in os.walk('.'):
+    for root, _, files in os.walk('..'):
+        print(files)
         for file in files:
+            print(file)
             if file.endswith('.md'):
+                print("IS GOOD")
                 file_path = os.path.join(root, file)
                 if update_links_in_file(file_path):
                     changed = True

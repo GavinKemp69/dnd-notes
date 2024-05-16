@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "index.MD",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "index.MD",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "index.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "index.MD"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfca64544c9d2e1d",
+  "active": "d8c63fbb8891b77f",
   "lastOpenFiles": [
+    "scripts/changes_made.txt",
+    "Session Notes/Session 6.md",
     "index.MD",
     "README.md",
     "The Story So Far.md",
@@ -162,7 +164,6 @@
     "Session Notes/Session 1-2.md",
     "Session Notes/Session 8.md",
     "Session Notes/Session 7.md",
-    "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "NPCs/Quentin Togglepocket.md",
     "Session Notes/Session 4.md",
@@ -180,7 +181,6 @@
     "Session Notes/Session 12.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 9.md",
-    "Session Notes/Session 13.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
