@@ -1,0 +1,1 @@
+Tavern in [[Fort Enton]].

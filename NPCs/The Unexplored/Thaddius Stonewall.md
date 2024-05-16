@@ -1,0 +1,1 @@
+Creator of [[Fluffernox]]. Met him at the [[Oak Iron Lodge]].

@@ -1,0 +1,1 @@
+Cleric in [[Fort Enton]]. Healing [[Peen Chiez]] of his curse through the use of [[Mutated Dragon's Blood]].

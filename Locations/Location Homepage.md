@@ -1,1 +1,9 @@
-Put in your locations here
+[[Fort Enton]]
+
+[[Kobold's Cave]]
+
+[[Oak Iron Lodge]]
+
+[[Varkenbluff Museum]]
+
+[[Varkenbluff University]]

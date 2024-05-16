@@ -1,1 +1,1 @@
-Curator of [[Varkenbluff Museum]]
+Curator of [[Varkenbluff Museum]].

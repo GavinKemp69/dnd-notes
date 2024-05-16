@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
+                "file": "NPCs/NPC Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
+                "file": "NPCs/NPC Homepage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
+                "file": "NPCs/NPC Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/The Unexplored/Calvin Lighthouse.md"
+                "file": "NPCs/NPC Homepage.md"
               }
             }
           }
@@ -171,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8c63fbb8891b77f",
+  "active": "46bcb14c792b08ba",
   "lastOpenFiles": [
-    "Untitled",
-    "Locations/Varkenbluff University.md",
-    "NPCs/Ahili/Fingus Dannell.md",
+    "NPCs/Verity Kye.md",
+    "NPCs/Quentin Togglepocket.md",
+    "NPCs/NPC Homepage.md",
+    "NPCs/The Unexplored/Galen Silverbeard.md",
+    "NPCs/The Unexplored/Thaddius Stonewall.md",
+    "NPCs/The Unexplored/Fluffernox.md",
     "NPCs/The Unexplored/Calvin Lighthouse.md",
-    "Locations/Fort Enton.md",
-    "NPCs/Fluffernox.md",
+    "NPCs/Ahili/Fingus Dannell.md",
     "NPCs/Ahili/Alda Arkin.md",
+    "Locations/Location Homepage.md",
+    "Locations/Oak Iron Lodge.md",
+    "Locations/Kobold's Cave.md",
+    "Locations/Fort Enton.md",
+    "Mutated Dragon's Blood.md",
+    "Items/Murkmire Stone.md",
+    "Items",
+    "Locations/Varkenbluff University.md",
     "Locations/Varkenbluff Museum.md",
-    "NPCs/Thaddius Stonewall.md",
     "NPCs/The Unexplored",
     "NPCs/Ahili",
-    "NPCs/NPC Homepage.md",
-    "NPCs/Galen Silverbeard.md",
     "index.MD",
     "Session Notes/Session Homepage.md",
     "scripts/changes_made.txt",
     "Session Notes/Session 6.md",
     "README.md",
     "The Story So Far.md",
-    "Locations/Location Homepage.md",
     "Locations",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 14.md",
-    "Session Notes/Session 1-2.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 5.md",
-    "NPCs/Quentin Togglepocket.md",
     "NPCs",
     "scripts/update_links.py",
     "scripts",
     "README.md~",
     "Session Notes",
-    "_config.yml",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
