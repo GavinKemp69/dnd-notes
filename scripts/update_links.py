@@ -11,6 +11,7 @@ def update_links_in_file(file_path):
     if updated_content != content:
         with open(file_path, 'w') as file:
             file.write(updated_content)
+            print(f"Updated links in file: {file_path}")  # Log statement
         return True
     return False
 
@@ -18,7 +19,9 @@ def walk_through_files():
     changed = False
     for root, _, files in os.walk('.'):
         for file in files:
+            print(f"Looking at file: {file}")
             if file.endswith('.md'):
+                print(f"Identified file with .md extension")
                 file_path = os.path.join(root, file)
                 if update_links_in_file(file_path):
                     changed = True
