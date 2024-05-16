@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46bcb14c792b08ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1f8c528882d90fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Varkenbluff University.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "NPCs/The Unexplored/Calvin Lighthouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "NPCs/The Unexplored/Calvin Lighthouse.md"
               }
             }
           }
@@ -146,17 +171,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfca64544c9d2e1d",
+  "active": "d8c63fbb8891b77f",
   "lastOpenFiles": [
-    "Session Notes/Session Homepage.md",
+    "Untitled",
+    "Locations/Varkenbluff University.md",
+    "NPCs/Ahili/Fingus Dannell.md",
+    "NPCs/The Unexplored/Calvin Lighthouse.md",
+    "Locations/Fort Enton.md",
+    "NPCs/Fluffernox.md",
+    "NPCs/Ahili/Alda Arkin.md",
+    "Locations/Varkenbluff Museum.md",
+    "NPCs/Thaddius Stonewall.md",
+    "NPCs/The Unexplored",
+    "NPCs/Ahili",
+    "NPCs/NPC Homepage.md",
+    "NPCs/Galen Silverbeard.md",
     "index.MD",
+    "Session Notes/Session Homepage.md",
     "scripts/changes_made.txt",
     "Session Notes/Session 6.md",
     "README.md",
     "The Story So Far.md",
     "Locations/Location Homepage.md",
     "Locations",
-    "NPCs/NPC Homepage.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 15.md",
@@ -166,21 +203,12 @@
     "Session Notes/Session 7.md",
     "Session Notes/Session 5.md",
     "NPCs/Quentin Togglepocket.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 3.md",
-    "NPCs/Verity Kye.md",
-    "NPCs/Alda Arkin.md",
     "NPCs",
     "scripts/update_links.py",
     "scripts",
     "README.md~",
     "Session Notes",
-    "Sessio 3.md",
     "_config.yml",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 12.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 9.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
