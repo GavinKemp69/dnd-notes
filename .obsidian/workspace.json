@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 17.md",
+                "file": "index.MD",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 17.md",
+                "file": "index.MD",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 17.md",
+                "file": "index.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 17.md"
+                "file": "index.MD"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "dfca64544c9d2e1d",
   "lastOpenFiles": [
-    "Session Notes/Session 16.md",
+    "README.md",
+    "The Story So Far.md",
+    "Session Notes/Session Homepage.md",
+    "index.MD",
+    "Locations/Location Homepage.md",
+    "Locations",
+    "NPCs/NPC Homepage.md",
     "Session Notes/Session 17.md",
+    "Session Notes/Session 16.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 14.md",
     "Session Notes/Session 1-2.md",
@@ -161,8 +168,6 @@
     "Session Notes/Session 4.md",
     "Session Notes/Session 3.md",
     "NPCs/Verity Kye.md",
-    "index.MD",
-    "README.md",
     "NPCs/Alda Arkin.md",
     "NPCs",
     "scripts/update_links.py",
@@ -177,10 +182,7 @@
     "Session Notes/Session 9.md",
     "Session Notes/Session 13.md",
     "Untitled.canvas",
-    "DnD Campaign 2.md",
-    "2024-03-28.md",
     "Untitled 2.canvas",
-    "Lung shit.md",
     "Untitled 1.canvas"
   ]
 }
