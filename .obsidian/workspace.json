@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9.md"
+                "file": "Session Notes/Session 11.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "9bb208d587b7a017",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Session Notes/Session 9.md",
     "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "conflict-files-obsidian-git.md",
     "Session Notes/Session 8.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",
