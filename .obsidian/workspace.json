@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.MD",
+                "file": "Session Notes/Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.MD"
+                "file": "Session Notes/Session 17.md"
               }
             }
           }
@@ -198,18 +198,19 @@
   },
   "active": "9bb208d587b7a017",
   "lastOpenFiles": [
-    "NPCs/NPC Homepage.md",
     "index.MD",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 16.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 1-2.md",
+    "NPCs/NPC Homepage.md",
     "Session Notes/Session 4.md",
     "Session Notes/Session 5.md",
-    "Session Notes/Session 3.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 9.md",
     "Session Notes/Session 8.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 6.md",
-    "Session Notes/Session 1-2.md",
-    "Session Notes/Session 17.md",
     "NPCs/Ahili/Alda Arkin.md",
     "NPCs/Ahili/Fingus Dannell.md",
     "Items/Mutated Dragon's Blood.md",
@@ -217,7 +218,6 @@
     "Locations/Oak Iron Lodge.md",
     "Session Notes/Session 11.md",
     "conflict-files-obsidian-git.md",
-    "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
     "Session Notes/Session Homepage.md",
     "NPCs/Quentin Togglepocket.md",
