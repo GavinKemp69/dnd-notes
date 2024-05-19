@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 4.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "9bb208d587b7a017",
   "lastOpenFiles": [
+    "Session Notes/Session 4.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 1-2.md",
     "Session Notes/Session 17.md",
@@ -216,7 +217,6 @@
     "Session Notes/Session 7.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
-    "Session Notes/Session 4.md",
     "Session Notes/Session Homepage.md",
     "NPCs/Quentin Togglepocket.md",
     "Locations/Location Homepage.md",
