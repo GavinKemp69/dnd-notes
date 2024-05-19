@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           }
@@ -198,8 +198,14 @@
   },
   "active": "9bb208d587b7a017",
   "lastOpenFiles": [
-    "Session Notes/Session 4.md",
+    "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 6.md",
     "Session Notes/Session 1-2.md",
     "Session Notes/Session 17.md",
     "NPCs/Ahili/Alda Arkin.md",
@@ -208,15 +214,9 @@
     "Items/Murkmire Stone.md",
     "Locations/Oak Iron Lodge.md",
     "Session Notes/Session 11.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 9.md",
     "conflict-files-obsidian-git.md",
-    "Session Notes/Session 8.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 6.md",
-    "Session Notes/Session 5.md",
     "Session Notes/Session Homepage.md",
     "NPCs/Quentin Togglepocket.md",
     "Locations/Location Homepage.md",
