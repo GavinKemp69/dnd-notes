@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "index.MD",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "index.MD",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "index.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 4.md"
+                "file": "index.MD"
               }
             }
           }
@@ -198,9 +198,11 @@
   },
   "active": "9bb208d587b7a017",
   "lastOpenFiles": [
+    "NPCs/NPC Homepage.md",
+    "index.MD",
+    "Session Notes/Session 4.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
-    "Session Notes/Session 4.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 9.md",
     "Session Notes/Session 8.md",
@@ -222,8 +224,6 @@
     "Locations/Location Homepage.md",
     "NPCs/The Unexplored/Thaddius Stonewall.md",
     "NPCs/The Unexplored/Galen Silverbeard.md",
-    "NPCs/The Unexplored/Calvin Lighthouse.md",
-    "NPCs/The Unexplored/Fluffernox.md",
     "Items",
     "NPCs/The Unexplored",
     "NPCs/Ahili",
