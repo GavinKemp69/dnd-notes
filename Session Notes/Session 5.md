@@ -1,6 +1,6 @@
 Chutes and Turge pick the lock to the laundry and take 2 uniforms while Turge also uses a disguise kit to look like a tiefling. 
 
-Savvek finished second in the tournament, but followed the winner "Ladia" and spoke with her in the restaurant. Realising she had cheated Savvek convinces her to hand over the Statuette or he'll turn her into the casino. She flees and Savvek is left with the statue.
+Savvek finished second in the tournament, but followed the winner [[Ladia]] and spoke with her in the restaurant. Realising she had cheated Savvek convinces her to hand over the Statuette or he'll turn her into the casino. She flees and Savvek is left with the statue.
 
 Gully went separately to meet the lion tamer and drugged him causing him to fall unconscious. After releasing the animals to cause a distraction Gully heads towards the backrooms. Baboons escaped into the amphitheater .
 

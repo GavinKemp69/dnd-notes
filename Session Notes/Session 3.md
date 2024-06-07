@@ -4,7 +4,7 @@ An ally of the Golden Vault called [Verity Kye](Verity%20Kye.md) had her winning
 
 Gully uses a disguise kit on "Turge".
 
-Owner of the casino is a Gnome called [[Quentin Togglepocket]]. Steal Erinyes statuette which he plans to use as a prize and 5000gp.
+Owner of the casino is a Gnome called [[Quentin Togglepocket]]. Steal [[Erinyes statuette]] which he plans to use as a prize and 5000gp.
 
 We have to travel downriver.  
 

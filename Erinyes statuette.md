@@ -1,0 +1,1 @@
+Statuette that we stole from the [[Afterlife Casino]] for [[Verity Kye]]. Was offered as a prize in a 
