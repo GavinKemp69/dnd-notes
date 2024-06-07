@@ -1,0 +1,1 @@
+Fortified village of humans and dwarves in self-imposed exile from the world above. They trade with the [[Mermarids]].

@@ -10,7 +10,7 @@ Turge puts on the casino workers costume and disguises himself while savvek and 
 
 The party meet at the door to the security station and Gully lures the security guard in the station out allowing Turge and Belton, with Savvek and Chutes in the bag of holding through to the vault.
 
-[[Quentin Togglepocket]] is drawn by Gully's distraction out and Gully manages to take him hostage following the others to the vault.
+[Quentin Togglepocket](../NPCs/Quentin%20Togglepocket) is drawn by Gully's distraction out and Gully manages to take him hostage following the others to the vault.
 
 Upon entering the vault Savvek and Chutes jump from the bag of holding after Belton wildshapes back to human form and eventually take down the skeletal minotaur that was guarding the vault.
 
