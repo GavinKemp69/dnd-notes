@@ -1,3 +1,3 @@
 # Alda Arkin
 
-Curator of [Varkenbluff Museum](../../Locations/Varkenbluff%20Museum).
+Curator of [Varkenbluff Museum](Varkenbluff%20Museum.md).
