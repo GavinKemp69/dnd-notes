@@ -1,0 +1,1 @@
+Ally of the [[Golden Gnomish owner of the [[Afterlife Casino]]. Vault]]
