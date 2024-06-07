@@ -1,1 +1,1 @@
-A practical organisation committed 
+A practical organisation committed to the "Greater Good". Offers us work through our handler [[Meera Raheer]]. Our missions come 
