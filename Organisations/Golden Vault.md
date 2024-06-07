@@ -1,1 +1,1 @@
-A practical organisation committed to the "Greater Good". Offers us work through our handler [[Meera Raheer]]. Our missions come 
+A practical organisation committed to the "Greater Good". Offers us work through our handler [[Meera Raheer]]. Each of us were given a box and when a job is on we are delivered a key to open the box with a message containing the quest inside.

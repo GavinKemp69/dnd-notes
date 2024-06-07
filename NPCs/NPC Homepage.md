@@ -2,7 +2,7 @@
 
 [Quentin Togglepocket](Quentin%20Togglepocket)
 
-[Verity Kye](Verity%20Kye)
+[Verity Kye](Verity%20Kye.md)
 
 [Fingus Dannell](Ahili/Fingus%20Dannell)
 
