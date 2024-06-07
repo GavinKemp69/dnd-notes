@@ -1,1 +1,1 @@
-Ally of the [[Golden Gnomish owner of the [[Afterlife Casino]]. Vault]]
+Ally of the [[Golden Vault]]. Tasked our group with recovering 5000 gp and the [[Erinyes Stattuete]] from [[Afterlife Casino]] owned by [[Quentin Togglepocket]]. 
