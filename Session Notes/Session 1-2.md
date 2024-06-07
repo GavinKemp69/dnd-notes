@@ -1,7 +1,7 @@
 
 City- Aheely
 
-We've been hired to do a job by the golden vault. Our handler is Meera Raheer.
+We've been hired to do a job by the golden vault. Our handler is [[Meera Raheer]].
 
 Golden Vault- Practical organisation committed to the greater good.
 
@@ -11,7 +11,7 @@ Suspicious halfling walks up to Gully and drops an envelope in Gully's music cas
 
 When we started working with he Golden Vault we were each given small music box with a keyhole, this is how we receive instructions.
 
-Gully brings the envelope to the rest of us and we retire to Gully's private room where gully gives Turge the key with which he opens his box.
+Gully brings the envelope to the rest of us and we retire to Gully's private room where Gully gives Turge the key with which he opens his box.
 
 "Egg of Eldritch horror (Murkmire stone) is going to be put on display at the VarkenBluff Museum of natural History, we must retrieve it" 
 
@@ -19,7 +19,7 @@ Savvek and I worked for the Donnel family in retrieving a family pendant. Dr Fin
 
 We go to an Inn called the Sage's Quill where we last met the Donnel contact on the previous job.
 
-We went to the museum. Gully met an Alda Arkin (the curator) as he tried to go up to the attic.
+We went to the museum. Gully met an [[Alda Arkin]] (the curator) as he tried to go up to the attic.
 
 I checked the offices and saw a strange doll in the south most office. I enter the gem room waiting to make my distraction.
 

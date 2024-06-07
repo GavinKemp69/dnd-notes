@@ -1,0 +1,1 @@
+Gnomish owner of the [[Afterlife Casino]]. 
