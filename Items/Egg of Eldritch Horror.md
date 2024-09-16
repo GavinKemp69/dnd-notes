@@ -1,0 +1,1 @@
+Also known as the [[Murkmire Stone]]. Looks like a large jade stone. A dangerous item that could cause the hatching of a dangerous eldritch beast. We retrieved it from the [[Varkenbluff Museum]] and gave it to [[Dr Fingus Donnel]]. It was then stolen by [[Demon Goons]] (probably working for [[Quentin Togglepocket]])

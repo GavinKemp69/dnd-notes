@@ -1,6 +1,6 @@
-[Fort Enton](Fort%20Enton)
+[Fort Enton](Fort%20Enton.md)
 
-[Kobold's Cave](Kobold's%20Cave)
+[Kobold's Cave](Kobold's%20Cave.md)
 
 [Oak Iron Lodge](Oak%20Iron%20Lodge.md)
 

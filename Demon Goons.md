@@ -1,0 +1,1 @@
+Tiefling Demon goons working for [[Quentin Togglepocket]]. They attacked us after we raided the [[Afterlife Casino]] and also murdered [[Dr Fingus Donnel]] and stole [[the murkmire stone]]. 

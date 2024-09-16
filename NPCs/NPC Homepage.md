@@ -4,7 +4,7 @@
 
 [Verity Kye](Verity%20Kye.md)
 
-[Fingus Dannell](Ahili/Fingus%20Dannell)
+[Dr Fingus Dannell](Dr%20Fingus%20Dannell.md)
 
 [Calvin Lighthouse](The%20Unexplored/Calvin%20Lighthouse)
 

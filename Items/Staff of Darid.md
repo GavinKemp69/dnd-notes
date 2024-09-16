@@ -1,0 +1,1 @@
+Also known as the [[Skyblinder Staff]]. Shows the magical ley-lines connecting places in the [[The Unexplored]]. 

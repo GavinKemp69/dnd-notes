@@ -2,7 +2,7 @@ We awake in the giants cave and are told to leave. he asks that we let him know 
 
 We head east and see a village. Savvek looks for signs of strangeness from a mile away. Nothing looks out of the ordinary. Village is built up around a river that flows through it.
 
-A large guard tower stands in the centre of the village with walls around the village. Village is "Fort Enton", they oppose the lightbringers (and presumably support the return of Okkuks)
+A large guard tower stands in the centre of the village with walls around the village. Village is [[Fort Enton]], they oppose the lightbringers (and presumably support the return of Okkuks)
 
 Children are training in combat at school.  The village is clearly a ruined stone village that's been repaired with wood.
 

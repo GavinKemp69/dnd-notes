@@ -1,0 +1,3 @@
+Base of the guard captains. A jail.  A combination of police and army. They are made of two groups [[the Wardens]] and [[the Paladins]] .It's an enormous stone building made of stone and stands out against the rest of the city. Is where we discover that [[Verity Kye]] is being kept after her arrest for murder.
+
+Different orders of paladins are represented that follow different Gods. [[Helm]] [[Tyr]] 

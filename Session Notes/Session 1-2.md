@@ -13,9 +13,9 @@ When we started working with he Golden Vault we were each given small music box 
 
 Gully brings the envelope to the rest of us and we retire to Gully's private room where Gully gives Turge the key with which he opens his box.
 
-"Egg of Eldritch horror (Murkmire stone) is going to be put on display at the [[Varkenbluff Museum]] of natural History, we must retrieve it" 
+"[[Egg of Eldritch Horror]] ([[Murkmire stone]]) is going to be put on display at the [[Varkenbluff Museum]] of natural History, we must retrieve it" 
 
-Savvek and I worked for the Donnel family in retrieving a family pendant. Dr Fingus Donnel discovered the truth of the egg. 
+Savvek and I worked for the Donnel family in retrieving a family pendant. [[Dr Fingus Donnel]] discovered the truth of the egg. 
 
 We go to an Inn called the Sage's Quill where we last met the Donnel contact on the previous job.
 

@@ -1,0 +1,1 @@
+Works for the [[Ahili]] government. Likes to beat-box. Asks others to beat-box so he can rap. Has knowledge of the buildings and comes with us to confirm that the magic holding [[Ahili]]'s buildings together.

@@ -1,0 +1,1 @@
+"Big Incredible-Hulk of a man". A representative of the [[Order of Helm]] to the [[Board of Governors]].

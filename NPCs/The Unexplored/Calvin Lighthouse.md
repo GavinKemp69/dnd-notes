@@ -1,3 +1,3 @@
 # Calvin Lighthouse
 
-Dockworker in [Fort Enton](../../Locations/Fort%20Enton).
+Dockworker in [Fort Enton](Fort%20Enton.md).

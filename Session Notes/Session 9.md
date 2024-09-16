@@ -7,11 +7,11 @@ We head North. The motes start to disappear. Eventually we are engulfed by darkn
 
 We collected another thing of moss and bring it back to the rune. After collecting all the moss and returning to the rune we are commanded to leave and a path is lit. We follow the path and meet the "Guardian of the Whispering Woods".
 
-Okkuks is a snake God according to the scary Dryad lady (Guardian of the Whispering Woods). After talking and failing some roles we are thrown into a clearing in the forest.
+[[Okkuks]] is a snake God according to the scary Dryad lady (Guardian of the Whispering Woods). After talking and failing some roles we are thrown into a clearing in the forest.
 
 We fight some wolves, dire wolves and a "GloomStrider". After defeating them we're dragged back to the  Guardian of the Whispering Woods.
 
-She says "You're worthy to be the heir of Dariid" and ""That which brings life will soon bring death. Okkuks, the serpent that brings life to this forest, will soon awaken, returning all that is here back to nature. 
+She says "You're worthy to be the heir of Dariid" and ""That which brings life will soon bring death. [[Okkuks]], the serpent that brings life to this forest, will soon awaken, returning all that is here back to nature. 
 
 Tell me, how shall you aid her?" We ask if she knows the way back to the city.
 

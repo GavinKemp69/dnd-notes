@@ -1,0 +1,1 @@
+Student of Planar Studies. She witnessed the murder of [[Dr Fingus Donnel]]. We agreed to escort her to the [[Order of Helm]] to act as a witness to help [[Verity Kye]]. 
