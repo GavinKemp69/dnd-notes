@@ -1,0 +1,1 @@
+[[Hammond Chiez]]'s Gimp. We rescued him and asked people at [[Fort Enton]]to heal him. When we return [[Peen Chiez]] is doing better when we return, but needs [[Dragon Blood]] to fully heal.

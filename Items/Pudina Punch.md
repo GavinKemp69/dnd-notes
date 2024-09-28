@@ -1,0 +1,1 @@
+3d4 +3 healing. Level 3 potion.
