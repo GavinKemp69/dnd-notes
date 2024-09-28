@@ -1,0 +1,1 @@
+In the [[Crypt of Darid]] there were carvings that showed [[Darid]] fought them off with the [[Staff of Darid]]. They attacked the Giant village to capture [[Liar's Jewel]]. 

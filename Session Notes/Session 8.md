@@ -1,2 +1,2 @@
 
-Fight through the dungeon. We use detect magic to reveal a path through a magically trapped floor. After defeating all the enemies Savvek discovers *Radiant dmg Bow*. Then Hammond and Belton are ambushed by wolves while searching for supplies/hunting?. Eventually we are supported by the rest of the party and defeat the wolves.
+Fight through the dungeon. We use detect magic to reveal a path through a magically trapped floor. After defeating all the enemies Savvek discovers *Radiant dmg Bow*. Then Hammond and Belton are ambushed by wolves while searching for supplies/hunting? Eventually we are supported by the rest of the party and defeat the wolves.

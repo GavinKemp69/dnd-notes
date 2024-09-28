@@ -1,0 +1,1 @@
+Giant village destroyed by shadow creatures in [[The Unexplored]]

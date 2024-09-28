@@ -1,0 +1,1 @@
+The giant doesn't know why the [[Shadow Creatures]] wanted this powerfully magically item.

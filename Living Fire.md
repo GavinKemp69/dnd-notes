@@ -1,0 +1,1 @@
+Cannot be reasoned with. Mindless living fire. Pure elemental fire.

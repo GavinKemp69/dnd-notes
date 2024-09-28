@@ -1,1 +1,1 @@
-Fortified village of humans and dwarves in self-imposed exile from the world above. They trade with the [[Mermarids]].
+Fortified village of humans and dwarves in self-imposed exile from the world above. They trade with the [[Mermarids]]. Supporters of [[Okkuks]] and want to see the world returned to nature.

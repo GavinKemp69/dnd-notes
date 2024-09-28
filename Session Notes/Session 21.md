@@ -7,7 +7,7 @@ We arrive at the [[Astral Garrison]] and speak with the [[Order of Helm]]. We te
 
 The [[Board of Governors]] say they know of the return of [[Okkuks]] and ask us to take a magical oath that prevents us talking about the information that they divulge to us. We accept and they take us to the chief governor [[Elarion Sunshard]] who offers us drinks that turn out to be sand. The books are very ordered at the top, but at ground level the books are disordered and damaged. He notices the [[Skyblinder Staff]] and the [[Bow of Darid]]. Elarion teleports us back to the pudina tree in the unexplored. We discover 6 more pudina fruit. 
 
-The [[Staff of Darid]] shows ley-lines, the strongest of which leads north. We decide to head to the Giant.
+The [[Staff of Darid]] shows ley-lines, the strongest of which leads north. We decide to head to the Giant. We decided to visit the Giant to ask about the place destroyed by giants and then visit [[Fort Enton]].
 
 
 

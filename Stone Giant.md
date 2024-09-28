@@ -1,0 +1,1 @@
+Giant we met near [[Fort Enton]] in [[The Unexplored]].

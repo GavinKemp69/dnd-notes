@@ -1,0 +1,1 @@
+Dragon who controlled the Kobolds that we defeated. Was ordering goblins to rob the dwarves at [[Fort Enton]].
