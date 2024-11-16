@@ -6,4 +6,4 @@ We head to [[Fort Enton]]. We speak to a shopkeeper and buy and sell some items.
 
 [[Peen Chiez]] is recovering, but requires [[Dragon Blood]] to fully heal. 
 
-We head north towards where the strongest ley-line points, past the goblin fort and the kobold cave.
+We head north towards where the strongest ley-line points, past the goblin fort and the kobold cave. We ended the session encountering two creatures basing their heads into an ancient, overgrown, clearly dormant, stone golem.
