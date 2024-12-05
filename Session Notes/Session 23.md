@@ -1,2 +1,5 @@
 We start in a combat. A stone golem being headbutted by a giant bull and a dragon, both overgrown and in environmental decay. We ambush the two creatures and kill the dragon during the ambush.
 
+We defeat all the enemies and inspect the Stone golem. It's kneeling down and we notice that it's arm begins to wiggle and a panel opens up. Out waddles an older female Gnome(equivalent of 65yearold human) around 350 years old. She's wearing what were once very vibrant blue robes that are faded. She thanks us and introduces herself as [[Rosimiphi Flukerest]], explaining that the stone golem is broken. We are invited into the golem and take a short rest while she tells her tale.
+
+There are many leatherbound books and rich mahogany. It's 4 stories tall with a spiral staircase going up the floors. She has a tea set and fancy cakes. We sit round and explains that she has a problem with the golem.
